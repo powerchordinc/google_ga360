@@ -1,4 +1,4 @@
-connection: "bigquery-connectors-ga360"
+connection: "stihl_ga_360_bigquery"
 
 # include all the views
 include: "*.view"
